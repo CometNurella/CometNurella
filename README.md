@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CometNurella
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ and DSA
-- 📫 How to reach me vominhtien2008@yahoo.com
+- 👀 I’m interested in computer graphics and Win32 API
+- 🌱 I’m currently learning C++, Python, OpenGL and DSA
+- 📫 How to reach me aeternamsonne@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm from Southeast Asia (the poor region of Asia)
 
